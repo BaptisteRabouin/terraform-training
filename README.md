@@ -1,1 +1,1 @@
-# Terraform training practice labs
+# Terraform training practices labs
