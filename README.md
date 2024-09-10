@@ -1,1 +1,1 @@
-test
+# Terraform training practice labs
