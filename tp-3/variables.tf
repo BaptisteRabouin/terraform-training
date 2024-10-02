@@ -5,7 +5,7 @@ variable "instance_type" {
 }
 
 variable "aws_common_tag" {
-  type = "map"
+  type = map
   description = "Set AWS Tag"
   default = {
     Name: "ec2"
